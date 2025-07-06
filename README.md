@@ -60,8 +60,6 @@ or
 yarn start
 ```
 
-Then open your browser and visit [http://localhost:3000](http://localhost:3000)
-
 ## Project Structure
 
 ```
